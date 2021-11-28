@@ -24,7 +24,6 @@ int y_s = 0;
 int y_ls = 0;
 
 
-
 //relay
 int r_power = A1;
 int r_heat = A0;
